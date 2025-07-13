@@ -71,7 +71,8 @@ nav a.active{
 @media(max-width:995px){
     nav{
         position: absolute;
-        top: 100%;
+        display:none;
+        top: 0;
         right: 0;
         width:40%;
         border-left: 3px solid rgb(78, 126, 6);
